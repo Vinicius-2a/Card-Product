@@ -1,0 +1,13 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  
+  background-color: var(--cream);
+  color: var(--grey);
+  
+  font-size: 14px;
+  font-family: var(--font-primary);
+  font-weight: 500;
+}
