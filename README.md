@@ -14,7 +14,7 @@ O Desáfio é de replicar o design proposto.
 
 ##  Construído com
 - React JS
-- -Vite
+- Vite
 - JAVASCRIPT
 
 ##  Autor
