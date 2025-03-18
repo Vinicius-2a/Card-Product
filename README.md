@@ -1,4 +1,4 @@
-# Card HTML & CSS - (INICIANTE)
+# Card Product - (INICIANTE)
 ##  Visão geral
 Esta é uma solução para o [ desafio do "Product preview card component" no Frontend Mentor ](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 O Desáfio é de replicar o design proposto.
