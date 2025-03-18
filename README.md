@@ -5,7 +5,7 @@ O Desáfio é de replicar o design proposto.
 
 ###  Captura de tela
 
-![](./src/assets/images/HtmleCSS.webp)
+![](./src/assets/screenshot.webp)
 
 ###  Links
 
